@@ -1,1 +1,0 @@
-df['email'] = df['email'].str.strip().str.lower()
